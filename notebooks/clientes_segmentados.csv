@@ -1,165 +1,243 @@
-Age,Gender,Income,Education,Marital Status,Number of Children,Home Ownership,Credit Score,Segment
-25,Female,50000,Bachelor's Degree,Single,0,Rented,High,0
-30,Male,100000,Master's Degree,Married,2,Owned,High,1
-35,Female,75000,Doctorate,Married,1,Owned,High,1
-40,Male,125000,High School Diploma,Single,0,Owned,High,1
-45,Female,100000,Bachelor's Degree,Married,3,Owned,High,1
-50,Male,150000,Master's Degree,Married,0,Owned,High,2
-26,Female,40000,Associate's Degree,Single,0,Rented,Average,0
-31,Male,60000,Bachelor's Degree,Single,0,Rented,Average,0
-36,Female,80000,Master's Degree,Married,2,Owned,High,1
-41,Male,105000,Doctorate,Single,0,Owned,High,1
-46,Female,90000,High School Diploma,Married,1,Owned,High,1
-51,Male,135000,Bachelor's Degree,Married,0,Owned,High,2
-27,Female,35000,High School Diploma,Single,0,Rented,Low,0
-32,Male,55000,Associate's Degree,Single,0,Rented,Average,0
-37,Female,70000,Bachelor's Degree,Married,2,Owned,High,1
-42,Male,95000,Master's Degree,Single,0,Owned,High,1
-47,Female,85000,Doctorate,Married,1,Owned,High,1
-52,Male,125000,High School Diploma,Married,0,Owned,High,2
-28,Female,30000,Associate's Degree,Single,0,Rented,Low,0
-33,Male,50000,High School Diploma,Single,0,Rented,Average,0
-38,Female,65000,Bachelor's Degree,Married,2,Owned,High,1
-43,Male,80000,Master's Degree,Single,0,Owned,High,1
-48,Female,70000,Doctorate,Married,1,Owned,High,1
-53,Male,115000,Associate's Degree,Married,0,Owned,High,2
-29,Female,25000,High School Diploma,Single,0,Rented,Low,0
-34,Male,45000,Associate's Degree,Single,0,Rented,Average,0
-39,Female,60000,Bachelor's Degree,Married,2,Owned,High,1
-44,Male,75000,Master's Degree,Single,0,Owned,High,1
-49,Female,65000,Doctorate,Married,1,Owned,High,1
-25,Female,55000,Bachelor's Degree,Single,0,Rented,Average,0
-30,Male,105000,Master's Degree,Married,2,Owned,High,1
-35,Female,80000,Doctorate,Married,1,Owned,High,1
-40,Male,130000,High School Diploma,Single,0,Owned,High,2
-45,Female,105000,Bachelor's Degree,Married,3,Owned,High,1
-50,Male,155000,Master's Degree,Married,0,Owned,High,2
-26,Female,45000,Associate's Degree,Single,0,Rented,Average,0
-31,Male,65000,Bachelor's Degree,Single,0,Rented,Average,0
-36,Female,85000,Master's Degree,Married,2,Owned,High,1
-41,Male,110000,Doctorate,Single,0,Owned,High,1
-46,Female,95000,High School Diploma,Married,1,Owned,High,1
-51,Male,140000,Bachelor's Degree,Married,0,Owned,High,2
-27,Female,37500,High School Diploma,Single,0,Rented,Low,0
-32,Male,57500,Associate's Degree,Single,0,Rented,Average,0
-37,Female,72500,Bachelor's Degree,Married,2,Owned,High,1
-42,Male,100000,Master's Degree,Single,0,Owned,High,1
-47,Female,90000,Doctorate,Married,1,Owned,High,1
-52,Male,130000,High School Diploma,Married,0,Owned,High,2
-28,Female,32500,Associate's Degree,Single,0,Rented,Low,0
-33,Male,52500,High School Diploma,Single,0,Rented,Average,0
-38,Female,67500,Bachelor's Degree,Married,2,Owned,High,1
-43,Male,92500,Master's Degree,Single,0,Owned,High,1
-48,Female,82500,Doctorate,Married,1,Owned,High,1
-53,Male,122500,Associate's Degree,Married,0,Owned,High,2
-29,Female,27500,High School Diploma,Single,0,Rented,Low,0
-34,Male,47500,Associate's Degree,Single,0,Rented,Average,0
-39,Female,62500,Bachelor's Degree,Married,2,Owned,High,1
-44,Male,87500,Master's Degree,Single,0,Owned,High,1
-49,Female,77500,Doctorate,Married,1,Owned,High,1
-25,Female,57500,Bachelor's Degree,Single,0,Rented,Average,0
-30,Male,112500,Master's Degree,Married,2,Owned,High,1
-35,Female,85000,Doctorate,Married,1,Owned,High,1
-25,Female,60000,Bachelor's Degree,Single,0,Rented,Average,0
-30,Male,117500,Master's Degree,Married,2,Owned,High,1
-35,Female,90000,Doctorate,Married,1,Owned,High,1
-40,Male,142500,High School Diploma,Single,0,Owned,High,2
-45,Female,110000,Bachelor's Degree,Married,3,Owned,High,1
-50,Male,160000,Master's Degree,Married,0,Owned,High,2
-26,Female,47500,Associate's Degree,Single,0,Rented,Average,0
-31,Male,67500,Bachelor's Degree,Single,0,Rented,Average,0
-36,Female,90000,Master's Degree,Married,2,Owned,High,1
-41,Male,115000,Doctorate,Single,0,Owned,High,1
-46,Female,97500,High School Diploma,Married,1,Owned,High,1
-51,Male,145000,Bachelor's Degree,Married,0,Owned,High,2
-27,Female,37500,High School Diploma,Single,0,Rented,Low,0
-32,Male,57500,Associate's Degree,Single,0,Rented,Average,0
-37,Female,75000,Bachelor's Degree,Married,2,Owned,High,1
-42,Male,105000,Master's Degree,Single,0,Owned,High,1
-47,Female,95000,Doctorate,Married,1,Owned,High,1
-52,Male,135000,High School Diploma,Married,0,Owned,High,2
-28,Female,32500,Associate's Degree,Single,0,Rented,Low,0
-33,Male,52500,High School Diploma,Single,0,Rented,Average,0
-38,Female,67500,Bachelor's Degree,Married,2,Owned,High,1
-43,Male,92500,Master's Degree,Single,0,Owned,High,1
-48,Female,85000,Doctorate,Married,1,Owned,High,1
-53,Male,125000,Associate's Degree,Married,0,Owned,High,2
-29,Female,27500,High School Diploma,Single,0,Rented,Low,0
-34,Male,47500,Associate's Degree,Single,0,Rented,Average,0
-39,Female,62500,Bachelor's Degree,Married,2,Owned,High,1
-44,Male,87500,Master's Degree,Single,0,Owned,High,1
-49,Female,77500,Doctorate,Married,1,Owned,High,1
-25,Female,57500,Bachelor's Degree,Single,0,Rented,Average,0
-30,Male,112500,Master's Degree,Married,2,Owned,High,1
-35,Female,85000,Doctorate,Married,1,Owned,High,1
-25,Female,62500,Bachelor's Degree,Single,0,Rented,Average,0
-30,Male,117500,Master's Degree,Married,2,Owned,High,1
-35,Female,90000,Doctorate,Married,1,Owned,High,1
-40,Male,142500,High School Diploma,Single,0,Owned,High,2
-45,Female,115000,Bachelor's Degree,Married,3,Owned,High,2
-50,Male,162500,Master's Degree,Married,0,Owned,High,2
-26,Female,50000,Associate's Degree,Single,0,Rented,Average,0
-31,Male,70000,Bachelor's Degree,Single,0,Rented,Average,0
-36,Female,95000,Master's Degree,Married,2,Owned,High,1
-41,Male,120000,Doctorate,Single,0,Owned,High,1
-46,Female,102500,High School Diploma,Married,1,Owned,High,1
-51,Male,150000,Bachelor's Degree,Married,0,Owned,High,2
-27,Female,37500,High School Diploma,Single,0,Rented,Low,0
-32,Male,57500,Associate's Degree,Single,0,Rented,Average,0
-37,Female,77500,Bachelor's Degree,Married,2,Owned,High,1
-42,Male,110000,Master's Degree,Single,0,Owned,High,1
-47,Female,97500,Doctorate,Married,1,Owned,High,1
-52,Male,137500,High School Diploma,Married,0,Owned,High,2
-28,Female,32500,Associate's Degree,Single,0,Rented,Low,0
-33,Male,52500,High School Diploma,Single,0,Rented,Average,0
-38,Female,67500,Bachelor's Degree,Married,2,Owned,High,1
-43,Male,95000,Master's Degree,Single,0,Owned,High,1
-48,Female,87500,Doctorate,Married,1,Owned,High,1
-53,Male,127500,Associate's Degree,Married,0,Owned,High,2
-29,Female,27500,High School Diploma,Single,0,Rented,Low,0
-34,Male,47500,Associate's Degree,Single,0,Rented,Average,0
-39,Female,62500,Bachelor's Degree,Married,2,Owned,High,1
-44,Male,87500,Master's Degree,Single,0,Owned,High,1
-49,Female,77500,Doctorate,Married,1,Owned,High,1
-25,Female,57500,Bachelor's Degree,Single,0,Rented,Average,0
-30,Male,112500,Master's Degree,Married,2,Owned,High,1
-35,Female,85000,Doctorate,Married,1,Owned,High,1
-25,Female,60000,Bachelor's Degree,Single,0,Rented,Average,0
-30,Male,117500,Master's Degree,Married,2,Owned,High,1
-35,Female,90000,Doctorate,Married,1,Owned,High,1
-28,Male,75000,Bachelor's Degree,Single,0,Rented,Average,0
-33,Female,82000,Master's Degree,Married,1,Owned,High,1
-31,Male,95000,Doctorate,Single,0,Rented,High,1
-26,Female,55000,Bachelor's Degree,Married,1,Owned,Average,0
-32,Male,85000,Master's Degree,Single,0,Rented,High,1
-29,Female,68000,Doctorate,Married,2,Owned,Average,0
-34,Male,105000,Bachelor's Degree,Married,1,Rented,High,1
-25,Female,55000,Bachelor's Degree,Single,0,Rented,Average,0
-30,Male,105000,Master's Degree,Married,2,Owned,High,1
-35,Female,80000,Doctorate,Married,1,Owned,High,1
-40,Male,130000,High School Diploma,Single,0,Owned,High,2
-45,Female,105000,Bachelor's Degree,Married,3,Owned,High,1
-50,Male,155000,Master's Degree,Married,0,Owned,High,2
-26,Female,45000,Associate's Degree,Single,0,Rented,Average,0
-31,Male,65000,Bachelor's Degree,Single,0,Rented,Average,0
-36,Female,85000,Master's Degree,Married,2,Owned,High,1
-41,Male,110000,Doctorate,Single,0,Owned,High,1
-46,Female,95000,High School Diploma,Married,1,Owned,High,1
-51,Male,140000,Bachelor's Degree,Married,0,Owned,High,2
-27,Female,37500,High School Diploma,Single,0,Rented,Low,0
-32,Male,57500,Associate's Degree,Single,0,Rented,Average,0
-37,Female,72500,Bachelor's Degree,Married,2,Owned,High,1
-42,Male,100000,Master's Degree,Single,0,Owned,High,1
-47,Female,90000,Doctorate,Married,1,Owned,High,1
-52,Male,130000,High School Diploma,Married,0,Owned,High,2
-28,Female,32500,Associate's Degree,Single,0,Rented,Low,0
-33,Male,52500,High School Diploma,Single,0,Rented,Average,0
-38,Female,67500,Bachelor's Degree,Married,2,Owned,High,1
-43,Male,92500,Master's Degree,Single,0,Owned,High,1
-48,Female,82500,Doctorate,Married,1,Owned,High,1
-53,Male,122500,Associate's Degree,Married,0,Owned,High,2
-29,Female,27500,High School Diploma,Single,0,Rented,Low,0
-34,Male,47500,Associate's Degree,Single,0,Rented,Average,0
-39,Female,62500,Bachelor's Degree,Married,2,Owned,High,1
-44,Male,87500,Master's Degree,Single,0,Owned,High,1
-49,Female,77500,Doctorate,Married,1,Owned,High,1
+Age,Gender,Income,Education,Marital Status,Number of Children,Home Ownership,Credit Score,Loan Approved,Defaulted,Customer Tenure,Product Type,Risk Level,Segment
+25,Female,50000,Bachelor's Degree,Single,0,Rented,High,No,No,1,Personal Loan,Low,2
+30,Male,100000,Master's Degree,Married,2,Owned,High,Yes,No,2,Mortgage,Low,3
+35,Female,75000,Doctorate,Married,1,Owned,High,Yes,No,6,Credit Card,Low,3
+40,Male,125000,High School Diploma,Single,0,Owned,High,No,No,7,Car Loan,Low,3
+45,Female,100000,Bachelor's Degree,Married,3,Owned,High,No,No,2,Car Loan,Medium,0
+50,Male,150000,Master's Degree,Married,0,Owned,High,Yes,No,6,Mortgage,Medium,1
+26,Female,40000,Associate's Degree,Single,0,Rented,Average,Yes,No,0,Mortgage,Low,2
+31,Male,60000,Bachelor's Degree,Single,0,Rented,Average,Yes,No,0,Credit Card,Low,2
+36,Female,80000,Master's Degree,Married,2,Owned,High,Yes,No,6,Personal Loan,Low,3
+41,Male,105000,Doctorate,Single,0,Owned,High,Yes,No,0,Credit Card,Low,3
+46,Female,90000,High School Diploma,Married,1,Owned,High,Yes,No,7,Mortgage,High,0
+51,Male,135000,Bachelor's Degree,Married,0,Owned,High,Yes,No,8,Credit Card,Medium,1
+27,Female,35000,High School Diploma,Single,0,Rented,Low,Yes,Yes,3,Mortgage,Low,2
+32,Male,55000,Associate's Degree,Single,0,Rented,Average,Yes,No,0,Credit Card,High,2
+37,Female,70000,Bachelor's Degree,Married,2,Owned,High,Yes,No,6,Car Loan,Low,3
+42,Male,95000,Master's Degree,Single,0,Owned,High,Yes,Yes,1,Personal Loan,Low,0
+47,Female,85000,Doctorate,Married,1,Owned,High,Yes,No,1,Personal Loan,High,0
+52,Male,125000,High School Diploma,Married,0,Owned,High,Yes,No,9,Credit Card,Medium,1
+28,Female,30000,Associate's Degree,Single,0,Rented,Low,Yes,Yes,4,Mortgage,Low,2
+33,Male,50000,High School Diploma,Single,0,Rented,Average,Yes,No,7,Mortgage,High,2
+38,Female,65000,Bachelor's Degree,Married,2,Owned,High,No,No,5,Car Loan,High,0
+43,Male,80000,Master's Degree,Single,0,Owned,High,Yes,Yes,5,Mortgage,Low,0
+48,Female,70000,Doctorate,Married,1,Owned,High,Yes,Yes,2,Personal Loan,High,0
+53,Male,115000,Associate's Degree,Married,0,Owned,High,Yes,No,5,Mortgage,High,1
+29,Female,25000,High School Diploma,Single,0,Rented,Low,Yes,No,3,Mortgage,Low,2
+34,Male,45000,Associate's Degree,Single,0,Rented,Average,Yes,Yes,0,Car Loan,Low,2
+39,Female,60000,Bachelor's Degree,Married,2,Owned,High,No,No,2,Car Loan,Low,0
+44,Male,75000,Master's Degree,Single,0,Owned,High,Yes,No,1,Mortgage,Medium,0
+49,Female,65000,Doctorate,Married,1,Owned,High,Yes,No,5,Car Loan,Low,0
+25,Female,55000,Bachelor's Degree,Single,0,Rented,Average,Yes,No,3,Car Loan,Low,2
+30,Male,105000,Master's Degree,Married,2,Owned,High,No,No,3,Car Loan,Low,3
+35,Female,80000,Doctorate,Married,1,Owned,High,Yes,No,5,Personal Loan,Low,3
+40,Male,130000,High School Diploma,Single,0,Owned,High,Yes,No,5,Car Loan,Low,3
+45,Female,105000,Bachelor's Degree,Married,3,Owned,High,Yes,No,7,Personal Loan,Medium,0
+50,Male,155000,Master's Degree,Married,0,Owned,High,Yes,No,4,Car Loan,Medium,1
+26,Female,45000,Associate's Degree,Single,0,Rented,Average,Yes,No,5,Credit Card,Low,2
+31,Male,65000,Bachelor's Degree,Single,0,Rented,Average,No,No,5,Credit Card,Low,2
+36,Female,85000,Master's Degree,Married,2,Owned,High,Yes,No,0,Credit Card,Low,3
+41,Male,110000,Doctorate,Single,0,Owned,High,Yes,No,7,Car Loan,High,3
+46,Female,95000,High School Diploma,Married,1,Owned,High,Yes,No,8,Credit Card,High,0
+51,Male,140000,Bachelor's Degree,Married,0,Owned,High,Yes,Yes,1,Personal Loan,Medium,1
+27,Female,37500,High School Diploma,Single,0,Rented,Low,No,No,3,Mortgage,Low,2
+32,Male,57500,Associate's Degree,Single,0,Rented,Average,Yes,No,2,Personal Loan,High,2
+37,Female,72500,Bachelor's Degree,Married,2,Owned,High,Yes,No,3,Mortgage,High,3
+42,Male,100000,Master's Degree,Single,0,Owned,High,Yes,Yes,6,Mortgage,Low,3
+47,Female,90000,Doctorate,Married,1,Owned,High,Yes,Yes,1,Mortgage,High,0
+52,Male,130000,High School Diploma,Married,0,Owned,High,Yes,No,2,Personal Loan,Medium,1
+28,Female,32500,Associate's Degree,Single,0,Rented,Low,No,No,1,Mortgage,Low,2
+33,Male,52500,High School Diploma,Single,0,Rented,Average,Yes,No,6,Car Loan,Low,2
+38,Female,67500,Bachelor's Degree,Married,2,Owned,High,Yes,No,0,Mortgage,Low,0
+43,Male,92500,Master's Degree,Single,0,Owned,High,Yes,No,1,Mortgage,Low,0
+48,Female,82500,Doctorate,Married,1,Owned,High,Yes,No,1,Credit Card,High,0
+53,Male,122500,Associate's Degree,Married,0,Owned,High,Yes,No,0,Personal Loan,Medium,1
+29,Female,27500,High School Diploma,Single,0,Rented,Low,No,No,2,Mortgage,Low,2
+34,Male,47500,Associate's Degree,Single,0,Rented,Average,No,No,4,Credit Card,Low,2
+39,Female,62500,Bachelor's Degree,Married,2,Owned,High,Yes,No,4,Credit Card,Low,0
+44,Male,87500,Master's Degree,Single,0,Owned,High,Yes,No,7,Car Loan,Medium,0
+49,Female,77500,Doctorate,Married,1,Owned,High,Yes,No,1,Credit Card,Low,0
+25,Female,57500,Bachelor's Degree,Single,0,Rented,Average,Yes,No,1,Credit Card,Low,2
+30,Male,112500,Master's Degree,Married,2,Owned,High,No,No,5,Mortgage,Medium,3
+35,Female,85000,Doctorate,Married,1,Owned,High,Yes,No,1,Credit Card,Low,3
+25,Female,60000,Bachelor's Degree,Single,0,Rented,Average,Yes,No,3,Credit Card,Low,2
+30,Male,117500,Master's Degree,Married,2,Owned,High,Yes,No,4,Car Loan,Low,3
+35,Female,90000,Doctorate,Married,1,Owned,High,Yes,No,3,Personal Loan,Low,3
+40,Male,142500,High School Diploma,Single,0,Owned,High,Yes,No,5,Car Loan,Low,1
+45,Female,110000,Bachelor's Degree,Married,3,Owned,High,Yes,No,7,Car Loan,Medium,1
+50,Male,160000,Master's Degree,Married,0,Owned,High,Yes,No,3,Car Loan,Medium,1
+26,Female,47500,Associate's Degree,Single,0,Rented,Average,Yes,No,4,Personal Loan,Low,2
+31,Male,67500,Bachelor's Degree,Single,0,Rented,Average,No,No,2,Car Loan,Low,2
+36,Female,90000,Master's Degree,Married,2,Owned,High,Yes,No,3,Personal Loan,Low,3
+41,Male,115000,Doctorate,Single,0,Owned,High,Yes,No,6,Car Loan,Low,3
+46,Female,97500,High School Diploma,Married,1,Owned,High,Yes,No,3,Personal Loan,High,0
+51,Male,145000,Bachelor's Degree,Married,0,Owned,High,Yes,No,8,Personal Loan,Medium,1
+27,Female,37500,High School Diploma,Single,0,Rented,Low,Yes,Yes,3,Credit Card,Low,2
+32,Male,57500,Associate's Degree,Single,0,Rented,Average,Yes,No,4,Personal Loan,Low,2
+37,Female,75000,Bachelor's Degree,Married,2,Owned,High,Yes,No,7,Car Loan,High,3
+42,Male,105000,Master's Degree,Single,0,Owned,High,No,No,7,Personal Loan,Low,3
+47,Female,95000,Doctorate,Married,1,Owned,High,Yes,Yes,0,Credit Card,High,0
+52,Male,135000,High School Diploma,Married,0,Owned,High,Yes,No,7,Credit Card,Medium,1
+28,Female,32500,Associate's Degree,Single,0,Rented,Low,Yes,No,2,Personal Loan,Low,2
+33,Male,52500,High School Diploma,Single,0,Rented,Average,No,No,2,Credit Card,Low,2
+38,Female,67500,Bachelor's Degree,Married,2,Owned,High,Yes,No,4,Credit Card,Low,0
+43,Male,92500,Master's Degree,Single,0,Owned,High,Yes,No,7,Car Loan,Low,0
+48,Female,85000,Doctorate,Married,1,Owned,High,Yes,No,2,Mortgage,High,0
+53,Male,125000,Associate's Degree,Married,0,Owned,High,Yes,No,1,Credit Card,High,1
+29,Female,27500,High School Diploma,Single,0,Rented,Low,No,No,0,Personal Loan,Low,2
+34,Male,47500,Associate's Degree,Single,0,Rented,Average,Yes,Yes,5,Mortgage,Low,2
+39,Female,62500,Bachelor's Degree,Married,2,Owned,High,Yes,No,5,Mortgage,Low,0
+44,Male,87500,Master's Degree,Single,0,Owned,High,Yes,No,7,Mortgage,Medium,0
+49,Female,77500,Doctorate,Married,1,Owned,High,Yes,No,0,Car Loan,Low,0
+25,Female,57500,Bachelor's Degree,Single,0,Rented,Average,Yes,No,1,Mortgage,Low,2
+30,Male,112500,Master's Degree,Married,2,Owned,High,Yes,No,3,Car Loan,Medium,3
+35,Female,85000,Doctorate,Married,1,Owned,High,Yes,No,3,Credit Card,Low,3
+25,Female,62500,Bachelor's Degree,Single,0,Rented,Average,No,No,1,Personal Loan,Low,2
+30,Male,117500,Master's Degree,Married,2,Owned,High,Yes,No,4,Credit Card,Low,3
+35,Female,90000,Doctorate,Married,1,Owned,High,Yes,No,0,Personal Loan,Low,3
+40,Male,142500,High School Diploma,Single,0,Owned,High,Yes,No,4,Credit Card,Low,1
+45,Female,115000,Bachelor's Degree,Married,3,Owned,High,Yes,No,5,Personal Loan,Medium,1
+50,Male,162500,Master's Degree,Married,0,Owned,High,Yes,No,3,Car Loan,Medium,1
+26,Female,50000,Associate's Degree,Single,0,Rented,Average,Yes,No,5,Car Loan,High,2
+31,Male,70000,Bachelor's Degree,Single,0,Rented,Average,Yes,No,1,Mortgage,Low,2
+36,Female,95000,Master's Degree,Married,2,Owned,High,Yes,Yes,2,Car Loan,High,3
+41,Male,120000,Doctorate,Single,0,Owned,High,Yes,No,0,Mortgage,Low,3
+46,Female,102500,High School Diploma,Married,1,Owned,High,Yes,Yes,4,Mortgage,High,0
+51,Male,150000,Bachelor's Degree,Married,0,Owned,High,Yes,No,2,Car Loan,Medium,1
+27,Female,37500,High School Diploma,Single,0,Rented,Low,No,No,4,Credit Card,Low,2
+32,Male,57500,Associate's Degree,Single,0,Rented,Average,No,No,6,Personal Loan,Low,2
+37,Female,77500,Bachelor's Degree,Married,2,Owned,High,Yes,No,5,Car Loan,Low,3
+42,Male,110000,Master's Degree,Single,0,Owned,High,Yes,No,4,Personal Loan,Low,3
+47,Female,97500,Doctorate,Married,1,Owned,High,Yes,No,4,Credit Card,High,0
+52,Male,137500,High School Diploma,Married,0,Owned,High,Yes,No,10,Car Loan,Medium,1
+28,Female,32500,Associate's Degree,Single,0,Rented,Low,Yes,No,1,Credit Card,Low,2
+33,Male,52500,High School Diploma,Single,0,Rented,Average,No,No,0,Personal Loan,Low,2
+38,Female,67500,Bachelor's Degree,Married,2,Owned,High,Yes,No,0,Mortgage,Low,0
+43,Male,95000,Master's Degree,Single,0,Owned,High,Yes,No,8,Mortgage,Low,0
+48,Female,87500,Doctorate,Married,1,Owned,High,Yes,No,1,Mortgage,High,0
+53,Male,127500,Associate's Degree,Married,0,Owned,High,Yes,No,7,Mortgage,Medium,1
+29,Female,27500,High School Diploma,Single,0,Rented,Low,No,No,5,Credit Card,Low,2
+34,Male,47500,Associate's Degree,Single,0,Rented,Average,Yes,No,6,Mortgage,Low,2
+39,Female,62500,Bachelor's Degree,Married,2,Owned,High,Yes,No,4,Car Loan,Low,0
+44,Male,87500,Master's Degree,Single,0,Owned,High,Yes,No,8,Car Loan,Medium,0
+49,Female,77500,Doctorate,Married,1,Owned,High,Yes,No,3,Car Loan,Low,0
+25,Female,57500,Bachelor's Degree,Single,0,Rented,Average,Yes,No,2,Personal Loan,Low,2
+30,Male,112500,Master's Degree,Married,2,Owned,High,Yes,No,3,Car Loan,Medium,3
+35,Female,85000,Doctorate,Married,1,Owned,High,Yes,No,3,Mortgage,Low,3
+25,Female,60000,Bachelor's Degree,Single,0,Rented,Average,No,No,1,Personal Loan,Low,2
+30,Male,117500,Master's Degree,Married,2,Owned,High,No,No,4,Personal Loan,High,3
+35,Female,90000,Doctorate,Married,1,Owned,High,Yes,No,7,Personal Loan,Low,3
+28,Male,75000,Bachelor's Degree,Single,0,Rented,Average,Yes,Yes,4,Mortgage,Low,2
+33,Female,82000,Master's Degree,Married,1,Owned,High,Yes,No,4,Credit Card,High,3
+31,Male,95000,Doctorate,Single,0,Rented,High,Yes,No,0,Credit Card,Low,3
+26,Female,55000,Bachelor's Degree,Married,1,Owned,Average,Yes,Yes,0,Credit Card,Medium,2
+32,Male,85000,Master's Degree,Single,0,Rented,High,Yes,No,4,Personal Loan,Low,3
+29,Female,68000,Doctorate,Married,2,Owned,Average,Yes,No,1,Car Loan,Medium,2
+34,Male,105000,Bachelor's Degree,Married,1,Rented,High,Yes,No,4,Credit Card,Low,3
+25,Female,55000,Bachelor's Degree,Single,0,Rented,Average,No,No,4,Mortgage,Low,2
+30,Male,105000,Master's Degree,Married,2,Owned,High,Yes,No,2,Car Loan,Low,3
+35,Female,80000,Doctorate,Married,1,Owned,High,Yes,No,3,Mortgage,Low,3
+40,Male,130000,High School Diploma,Single,0,Owned,High,Yes,No,6,Car Loan,Low,3
+45,Female,105000,Bachelor's Degree,Married,3,Owned,High,Yes,No,2,Personal Loan,Medium,0
+50,Male,155000,Master's Degree,Married,0,Owned,High,Yes,No,0,Mortgage,Medium,1
+26,Female,45000,Associate's Degree,Single,0,Rented,Average,Yes,No,2,Car Loan,Low,2
+31,Male,65000,Bachelor's Degree,Single,0,Rented,Average,No,No,3,Credit Card,Low,2
+36,Female,85000,Master's Degree,Married,2,Owned,High,Yes,No,5,Personal Loan,Low,3
+41,Male,110000,Doctorate,Single,0,Owned,High,Yes,No,2,Mortgage,Low,3
+46,Female,95000,High School Diploma,Married,1,Owned,High,Yes,No,2,Mortgage,High,0
+51,Male,140000,Bachelor's Degree,Married,0,Owned,High,Yes,No,10,Car Loan,Medium,1
+27,Female,37500,High School Diploma,Single,0,Rented,Low,No,No,1,Car Loan,Low,2
+32,Male,57500,Associate's Degree,Single,0,Rented,Average,Yes,No,5,Car Loan,Low,2
+37,Female,72500,Bachelor's Degree,Married,2,Owned,High,Yes,No,2,Personal Loan,Low,3
+42,Male,100000,Master's Degree,Single,0,Owned,High,Yes,No,5,Credit Card,Low,3
+47,Female,90000,Doctorate,Married,1,Owned,High,Yes,No,8,Mortgage,High,0
+52,Male,130000,High School Diploma,Married,0,Owned,High,Yes,No,9,Mortgage,Medium,1
+28,Female,32500,Associate's Degree,Single,0,Rented,Low,No,No,2,Car Loan,Low,2
+33,Male,52500,High School Diploma,Single,0,Rented,Average,Yes,No,1,Car Loan,Low,2
+38,Female,67500,Bachelor's Degree,Married,2,Owned,High,Yes,No,3,Car Loan,Low,0
+43,Male,92500,Master's Degree,Single,0,Owned,High,Yes,No,3,Credit Card,Low,0
+48,Female,82500,Doctorate,Married,1,Owned,High,Yes,No,3,Car Loan,High,0
+53,Male,122500,Associate's Degree,Married,0,Owned,High,Yes,No,0,Credit Card,High,1
+29,Female,27500,High School Diploma,Single,0,Rented,Low,No,No,2,Car Loan,Low,2
+34,Male,47500,Associate's Degree,Single,0,Rented,Average,Yes,Yes,1,Credit Card,Low,2
+39,Female,62500,Bachelor's Degree,Married,2,Owned,High,Yes,No,6,Mortgage,Low,0
+44,Male,87500,Master's Degree,Single,0,Owned,High,No,No,6,Car Loan,High,0
+49,Female,77500,Doctorate,Married,1,Owned,High,Yes,No,2,Car Loan,Low,0
+52,Male,147800,High School Diploma,Married,2,Owned,Low,Yes,No,9,Mortgage,Medium,1
+52,Female,142100,High School Diploma,Single,1,Owned,High,Yes,No,9,Personal Loan,High,1
+36,Male,88100,Associate's Degree,Single,3,Rented,Average,Yes,No,2,Mortgage,High,3
+37,Male,63200,Master's Degree,Single,4,Owned,Low,No,No,2,Car Loan,Low,0
+36,Female,147500,High School Diploma,Married,0,Rented,Low,Yes,Yes,2,Credit Card,Low,3
+50,Female,47500,Master's Degree,Married,0,Rented,High,No,No,9,Personal Loan,Low,0
+51,Female,48900,Bachelor's Degree,Married,3,Rented,High,No,No,2,Car Loan,Low,0
+51,Male,23100,Associate's Degree,Single,0,Rented,High,No,No,0,Car Loan,High,0
+44,Male,56900,High School Diploma,Single,4,Rented,High,No,No,7,Personal Loan,Medium,0
+53,Male,158100,Associate's Degree,Married,0,Rented,Low,No,No,1,Mortgage,Medium,1
+39,Male,75400,High School Diploma,Married,3,Rented,Average,No,No,1,Car Loan,Low,0
+43,Male,100900,High School Diploma,Married,0,Rented,Average,No,No,8,Personal Loan,Low,0
+41,Male,73100,Bachelor's Degree,Single,3,Owned,High,Yes,No,8,Mortgage,Low,0
+32,Male,55600,Master's Degree,Single,1,Rented,High,No,No,2,Mortgage,Medium,2
+26,Male,116900,Associate's Degree,Single,2,Rented,High,Yes,No,1,Personal Loan,Low,3
+33,Male,78900,High School Diploma,Single,2,Rented,Average,Yes,No,4,Personal Loan,Low,3
+37,Female,91600,High School Diploma,Married,3,Owned,High,Yes,No,7,Credit Card,High,3
+44,Female,100300,Bachelor's Degree,Married,1,Rented,High,Yes,No,9,Mortgage,Medium,0
+34,Female,21600,Master's Degree,Single,1,Rented,Low,No,No,4,Personal Loan,Low,2
+51,Female,72600,High School Diploma,Married,2,Owned,Average,Yes,No,7,Mortgage,High,0
+33,Female,95400,Associate's Degree,Married,1,Rented,High,Yes,No,1,Mortgage,Medium,3
+53,Male,72700,Master's Degree,Single,1,Owned,Low,Yes,Yes,5,Mortgage,Low,0
+31,Female,54700,Master's Degree,Single,2,Owned,Average,No,No,6,Credit Card,High,2
+42,Male,49100,Associate's Degree,Single,0,Rented,High,No,No,3,Personal Loan,High,0
+43,Male,92200,Master's Degree,Married,1,Owned,Low,No,No,6,Personal Loan,Low,0
+36,Female,86200,Bachelor's Degree,Single,0,Rented,Low,Yes,No,6,Car Loan,Medium,3
+44,Female,150600,Master's Degree,Married,1,Rented,High,No,No,1,Mortgage,Medium,1
+50,Female,46400,High School Diploma,Married,2,Owned,Average,Yes,No,6,Mortgage,Low,0
+47,Male,91800,Master's Degree,Married,1,Owned,Average,No,No,9,Car Loan,Medium,0
+42,Female,104900,Associate's Degree,Married,0,Owned,High,Yes,No,7,Credit Card,High,3
+29,Male,66300,High School Diploma,Married,4,Rented,Average,Yes,No,3,Car Loan,High,2
+33,Female,133900,Master's Degree,Single,0,Rented,Low,Yes,Yes,0,Personal Loan,Low,3
+41,Female,119000,Associate's Degree,Married,3,Owned,Low,Yes,No,5,Credit Card,High,3
+32,Male,118300,Bachelor's Degree,Married,1,Rented,High,Yes,No,5,Credit Card,Medium,3
+41,Male,45100,Master's Degree,Single,2,Rented,Low,No,No,0,Car Loan,High,0
+34,Female,92800,Master's Degree,Married,2,Rented,Average,No,No,6,Car Loan,Low,3
+52,Female,31700,High School Diploma,Married,4,Owned,Low,No,No,6,Mortgage,High,0
+40,Male,124500,Associate's Degree,Married,3,Owned,High,Yes,No,1,Credit Card,Low,3
+47,Male,102200,Bachelor's Degree,Married,1,Rented,Low,No,No,4,Car Loan,Medium,0
+30,Male,114000,Master's Degree,Married,1,Owned,High,Yes,No,1,Credit Card,Low,3
+33,Male,77300,Associate's Degree,Married,1,Rented,Average,No,No,1,Personal Loan,High,3
+39,Female,112000,Associate's Degree,Married,2,Owned,High,Yes,No,1,Car Loan,Medium,3
+49,Female,149700,Associate's Degree,Single,3,Rented,Low,Yes,No,9,Personal Loan,High,1
+35,Male,142200,Bachelor's Degree,Married,2,Owned,Average,No,No,2,Car Loan,High,3
+31,Female,142600,Associate's Degree,Married,0,Owned,Low,Yes,No,3,Personal Loan,High,3
+41,Male,20300,Bachelor's Degree,Married,2,Rented,Average,Yes,Yes,6,Personal Loan,Low,0
+45,Male,98500,Associate's Degree,Married,3,Owned,Low,No,No,4,Personal Loan,High,0
+47,Female,113700,High School Diploma,Single,3,Rented,High,Yes,No,4,Personal Loan,High,1
+45,Male,20800,Master's Degree,Single,1,Owned,Low,Yes,Yes,9,Personal Loan,High,0
+52,Female,86800,Bachelor's Degree,Married,4,Rented,Low,Yes,No,1,Credit Card,Low,0
+52,Female,137600,High School Diploma,Single,3,Owned,Low,No,No,10,Personal Loan,High,1
+51,Female,107400,High School Diploma,Married,0,Owned,High,Yes,No,7,Car Loan,High,1
+38,Male,54900,High School Diploma,Single,4,Owned,Low,No,No,1,Car Loan,Low,0
+37,Male,97300,Bachelor's Degree,Single,1,Owned,Average,Yes,Yes,2,Mortgage,High,3
+42,Female,98800,Associate's Degree,Single,2,Rented,High,No,No,5,Personal Loan,Medium,3
+43,Female,20400,Associate's Degree,Single,3,Rented,Low,No,No,1,Car Loan,High,0
+32,Male,68900,Master's Degree,Married,2,Rented,Average,Yes,No,1,Mortgage,Medium,2
+28,Female,68900,Associate's Degree,Single,3,Owned,Low,Yes,No,2,Credit Card,High,2
+47,Female,42100,Bachelor's Degree,Single,3,Owned,Average,Yes,No,0,Credit Card,High,0
+37,Male,64300,Bachelor's Degree,Married,4,Rented,Low,Yes,No,5,Personal Loan,High,0
+40,Male,147800,High School Diploma,Single,4,Owned,Low,No,No,7,Car Loan,Medium,1
+43,Male,93100,Bachelor's Degree,Married,2,Rented,Low,Yes,Yes,4,Credit Card,Low,0
+37,Male,54700,Bachelor's Degree,Single,0,Owned,Average,No,No,1,Mortgage,Low,2
+51,Male,157900,High School Diploma,Married,4,Owned,High,Yes,No,1,Personal Loan,High,1
+41,Male,26100,Associate's Degree,Single,1,Owned,High,No,No,0,Credit Card,High,0
+33,Male,30800,Master's Degree,Single,0,Owned,Average,Yes,Yes,0,Mortgage,Medium,2
+50,Female,64100,Master's Degree,Single,2,Owned,Low,No,No,2,Mortgage,Medium,0
+43,Male,51200,Associate's Degree,Single,0,Owned,Average,No,No,6,Personal Loan,High,0
+42,Male,20700,Bachelor's Degree,Single,1,Owned,Average,Yes,No,6,Personal Loan,Medium,0
+43,Male,49400,High School Diploma,Married,1,Owned,Low,No,No,2,Car Loan,Low,0
+43,Male,63000,Master's Degree,Married,2,Rented,Average,No,No,5,Personal Loan,High,0
+30,Male,69600,Bachelor's Degree,Single,2,Rented,High,No,No,1,Personal Loan,High,2
+54,Female,122500,Bachelor's Degree,Single,0,Rented,Low,No,No,5,Personal Loan,Medium,1
+53,Male,33600,High School Diploma,Single,2,Owned,Low,Yes,No,4,Car Loan,Low,0
+32,Female,93000,High School Diploma,Single,1,Owned,Average,Yes,No,3,Personal Loan,High,3
+49,Male,152500,Associate's Degree,Married,3,Rented,High,Yes,No,8,Car Loan,Medium,1
+50,Female,54000,High School Diploma,Single,0,Rented,Low,No,No,9,Car Loan,Low,0
+41,Male,151600,Associate's Degree,Married,4,Owned,Average,Yes,No,5,Mortgage,Medium,1
